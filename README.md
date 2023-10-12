@@ -30,6 +30,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
+![239241902-9b00d783-b28d-4db7-a357-98eb1c57c4ec](https://github.com/Yuvaraj878/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118622554/4b85dc0c-69e5-4c22-b24d-72da7edc46a0)
 
 ### Name: YUVARAJ.S
 ### Register Number: 212222240119
